@@ -81,7 +81,7 @@
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -98,9 +98,4 @@
 section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
-}
-
-p span.i1{
-	text-indent: -1em;
-	padding-left: 2em;
 }
