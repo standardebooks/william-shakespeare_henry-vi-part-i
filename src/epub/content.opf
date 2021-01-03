@@ -47,7 +47,8 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">The first part of Shakespeare’s trilogy on King Henry the Sixth’s reign and the War of the Roses.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long description.&lt;/p&gt;
+			&lt;p&gt;King Henry V has suddenly died, and the kingdom is in chaos. In England, noblemen are fighting amongst themselves. Loyalties are divided into two factions: the White Roses (York) and Red Roses (Lancaster). The Duke of Gloucester, Henry VI’s Protector, is accused of seizing the throne for himself.&lt;/p&gt;
+			&lt;p&gt;Meanwhile in France, the Dauphin Charles has been crowned the new king. English-held land once conquered by Henry V is quickly being recaptured by French forces. In one of these battles, the English hero Talbot is imprisoned. A French woman named Joan la Pucelle (Joan of Arc) has been receiving visions, telling her how to defeat the English Army.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
