@@ -30,6 +30,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Henry VI, Part I</dc:title>
 		<meta property="file-as" refines="#title">Henry VI, Part I</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the 6th, Part 1</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the Sixth, Part One</meta>
 		<dc:subject id="subject-1">Henry VI, King of England, 1421-1471 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
@@ -43,9 +45,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta id="collection-1" property="belongs-to-collection">Henry VI</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Henriad</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta property="group-position" refines="#collection-1">5</meta>
+		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s First Tetralogy</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">1</meta>
 		<dc:description id="description">King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;King Henry V has suddenly died, and the kingdom is in chaos. In England, noblemen are fighting amongst themselves. Loyalties are divided into two factions: the White Roses (York) and the Red Roses (Lancaster). The Duke of Gloucester, Henry VI’s Protector, is accused by Cardinal Beaufort of seizing the throne for himself.&lt;/p&gt;
