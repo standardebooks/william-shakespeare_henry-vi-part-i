@@ -53,7 +53,7 @@
 		<meta property="group-position" refines="#collection-2">1</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<dc:abstract>King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.</dc:abstract>
+		<meta property="schema:abstract">King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.</meta>
 		<dc:description>
 			&lt;p&gt;King Henry V has suddenly died, and the kingdom is in chaos. In England, noblemen are fighting amongst themselves. Loyalties are divided into two factions: the White Roses (York) and the Red Roses (Lancaster). The Duke of Gloucester, Henry VI’s Protector, is accused by Cardinal Beaufort of seizing the throne for himself.&lt;/p&gt;
 			&lt;p&gt;Meanwhile in France, the Dauphin Charles has been crowned the new king. English-held land once conquered by Henry V is quickly being recaptured by French forces. In one of these battles, the English hero Talbot is imprisoned. A French woman named Joan la Pucelle—also known as Joan of Arc—has been having visions that reveal to her how to defeat the English Army.&lt;/p&gt;
